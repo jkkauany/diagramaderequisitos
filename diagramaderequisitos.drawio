@@ -266,28 +266,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-3" target="zYgi4Muy-OTLrAH7Fp9f-4">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-3" target="zYgi4Muy-OTLrAH7Fp9f-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="364" y="50" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-4" target="zYgi4Muy-OTLrAH7Fp9f-6">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-4" target="zYgi4Muy-OTLrAH7Fp9f-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-4" value="stopped" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-4" value="stopped" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="120" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-6" target="zYgi4Muy-OTLrAH7Fp9f-7">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-6" target="zYgi4Muy-OTLrAH7Fp9f-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-6" value="Buff" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-6" value="Buff" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="190" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-7" target="zYgi4Muy-OTLrAH7Fp9f-8">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-7" target="zYgi4Muy-OTLrAH7Fp9f-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-7" target="zYgi4Muy-OTLrAH7Fp9f-7">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-7" target="zYgi4Muy-OTLrAH7Fp9f-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="280" as="targetPoint" />
             <Array as="points">
@@ -299,26 +299,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-7" value="playing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-7" value="playing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-8" target="zYgi4Muy-OTLrAH7Fp9f-9">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-8" target="zYgi4Muy-OTLrAH7Fp9f-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-8" value="Pausing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-8" value="Pausing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="340" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-9" value="Video/music content" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-9" value="Video/music content" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="310" y="451" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-9">
+        <mxCell id="zYgi4Muy-OTLrAH7Fp9f-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zYgi4Muy-OTLrAH7Fp9f-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="370" as="sourcePoint" />
             <mxPoint x="385" y="510" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="79NX4kzywy2NnkgWd8vT-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 29, 53); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Buffering&amp;nbsp;&lt;/span&gt;&lt;mark style=&quot;border-radius: 4px; padding: 0px 2px; font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; text-align: start;&quot; class=&quot;QVRyCf&quot;&gt;é o processo de pré-carregar dados em uma área reservada da memória, chamada buffer&lt;/mark&gt;&lt;span style=&quot;color: rgb(0, 29, 53); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="170" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
