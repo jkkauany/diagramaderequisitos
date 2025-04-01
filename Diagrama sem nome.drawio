@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qBUuUlGCjDeRj_VUra7n" name="Página-11">
-    <mxGraphModel dx="2062" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1871" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -889,19 +889,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="225" width="30" height="60" as="geometry" />
+          <mxGeometry x="-150" y="225" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-3" value="Fazer Registro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="170" y="130" width="102.5" height="80" as="geometry" />
+          <mxGeometry x="7.5" y="80" width="102.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-5" value="buscar produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="173.75" y="230" width="95" height="70" as="geometry" />
+          <mxGeometry x="88.13" y="160" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-6" value="Realizar compra" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="173.75" y="320" width="95" height="60" as="geometry" />
+          <mxGeometry x="88.13" y="250" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-7" value="visualizar produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="170" y="400" width="92.5" height="80" as="geometry" />
+          <mxGeometry x="-10" y="455" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Rxs3U7vQaF6x-F__6hJ7-12" target="Rxs3U7vQaF6x-F__6hJ7-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -943,19 +943,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-21" value="Gerente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="206.25" y="535" width="30" height="60" as="geometry" />
+          <mxGeometry x="206.25" y="610" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-22" value="gerenciar estoque" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="520" width="100" height="70" as="geometry" />
+          <mxGeometry x="-90" y="600" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-23" value="gerar relatórios de venda" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="640" width="100" height="70" as="geometry" />
+          <mxGeometry x="-60" y="690" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-24" value="Cadastrar fornecedores" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="770" width="100" height="70" as="geometry" />
+          <mxGeometry x="10" y="770" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-25" value="definir preços de produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="100" y="810" width="100" height="70" as="geometry" />
+          <mxGeometry x="120" y="810" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Rxs3U7vQaF6x-F__6hJ7-27" target="Rxs3U7vQaF6x-F__6hJ7-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -964,13 +964,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-27" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="580" width="30" height="60" as="geometry" />
+          <mxGeometry x="360" y="610" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-28" value="Gerenciar usuários e acessos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="460" y="525" width="100" height="70" as="geometry" />
+          <mxGeometry x="500" y="560" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rxs3U7vQaF6x-F__6hJ7-29" value="Configurar sistema" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="460" y="630" width="100" height="70" as="geometry" />
+          <mxGeometry x="500" y="660" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E-b22RlUC4zhL97D3f5c-1" value="escolher uma forma de pagamento" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="E-b22RlUC4zhL97D3f5c-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rxs3U7vQaF6x-F__6hJ7-2" target="E-b22RlUC4zhL97D3f5c-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="310" as="sourcePoint" />
+            <mxPoint x="160" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-b22RlUC4zhL97D3f5c-4" value="adicionar o produto ao carrinho" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="95" y="320" width="111.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-b22RlUC4zhL97D3f5c-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rxs3U7vQaF6x-F__6hJ7-2" target="E-b22RlUC4zhL97D3f5c-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="375" as="sourcePoint" />
+            <mxPoint x="30" y="325" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1231,7 +1249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6OFxr7wRbsZ-Wz0MxrAe" name="Página-15">
-    <mxGraphModel dx="1044" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
